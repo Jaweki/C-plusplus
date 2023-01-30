@@ -1,0 +1,3 @@
+﻿  recursive.cpp
+C:\Dev\CppSeries\10. Functions\4.Recursive_functions\src\recursive.cpp(15,4): warning C4102: 'std': unreferenced label
+  4.Recursive_functions.vcxproj -> C:\Dev\CppSeries\10. Functions\4.Recursive_functions\bin\x64Debug\4.Recursive_functions.exe
