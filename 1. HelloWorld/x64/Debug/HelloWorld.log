@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+C:\Dev\CppSeries\HelloWorld\HelloWorld.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Dev\CppSeries\HelloWorld\HelloWorld.cpp(20,32): error C2440: 'initializing': cannot convert from 'std::basic_istream<char,std::char_traits<char>>' to 'char'
+C:\Dev\CppSeries\HelloWorld\HelloWorld.cpp(20,16): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
