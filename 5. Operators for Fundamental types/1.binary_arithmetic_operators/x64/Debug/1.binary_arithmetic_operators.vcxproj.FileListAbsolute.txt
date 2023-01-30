@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\5. Operators for Fundamental types\1.binary_arithmetic_operators\x64\Debug\1.binary_arithmetic_operators.exe

@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\5. Operators for Fundamental types\2.Unary_arithmetic_operators\x64\Debug\2.Unary_arithmetic_operators.exe
