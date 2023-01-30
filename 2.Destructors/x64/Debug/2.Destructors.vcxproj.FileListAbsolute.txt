@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\14. Methods\2.Destructors\x64\Debug\2.Destructors.exe
