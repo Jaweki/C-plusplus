@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\17. Arrays and Pointers\2. ARRAYS_AND_POINTERS_(2)\x64\Debug\2. ARRAYS_AND_POINTERS_(2).exe

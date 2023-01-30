@@ -1,0 +1,3 @@
+﻿  reverse.cpp
+C:\Dev\CppSeries\17. Arrays and Pointers\3. ARRAYS_AS_ARGUMENTS\reverse.cpp(26,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  3. ARRAYS_AS_ARGUMENTS.vcxproj -> C:\Dev\CppSeries\17. Arrays and Pointers\3. ARRAYS_AS_ARGUMENTS\x64\Debug\3. ARRAYS_AS_ARGUMENTS.exe

@@ -1,0 +1,2 @@
+﻿  textPtr.cpp
+C:\Dev\CppSeries\17. Arrays and Pointers\1.  ARRAYS_AND_POINTERS_(1)\textPtr.cpp(15): error C4700: uninitialized local variable 'cPtr' used
