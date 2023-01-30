@@ -1,0 +1,4 @@
+﻿  string3.cpp
+C:\Dev\CppSeries\9. The Standard Class string\3.comparing_strings\src\string3.cpp(25,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\CppSeries\9. The Standard Class string\3.comparing_strings\src\string3.cpp(26,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  3.comparing_strings.vcxproj -> C:\Dev\CppSeries\9. The Standard Class string\3.comparing_strings\bin\x64Debug\3.comparing_strings.exe
