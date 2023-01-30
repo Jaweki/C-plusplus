@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\4. Input and Output with streams\8.unformatted_input_and_output\x64\Debug\8.unformatted_input_and_output.exe

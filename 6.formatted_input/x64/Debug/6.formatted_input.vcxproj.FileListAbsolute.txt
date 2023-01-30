@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\4. Input and Output with streams\6.formatted_input\x64\Debug\6.formatted_input.exe
