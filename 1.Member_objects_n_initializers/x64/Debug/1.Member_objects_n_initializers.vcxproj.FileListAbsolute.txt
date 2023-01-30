@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\15. Member Objects and Static Members\1.Member_objects_n_initializers\x64\Debug\1.Member_objects_n_initializers.exe

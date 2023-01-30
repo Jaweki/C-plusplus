@@ -1,0 +1,6 @@
+﻿  Result3.cpp
+  Result3_t.cpp
+  Generating Code...
+Result3_t.obj : error LNK2001: unresolved external symbol "private: static double Result::min" (?min@Result@@0NA)
+Result3_t.obj : error LNK2001: unresolved external symbol "private: static double Result::max" (?max@Result@@0NA)
+C:\Dev\CppSeries\15. Member Objects and Static Members\2.Constant_and_Static_data_member_objects\x64\Debug\2.Constant_and_Static_data_member_objects.exe : fatal error LNK1120: 2 unresolved externals
