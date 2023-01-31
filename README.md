@@ -3,7 +3,7 @@ tutorials in C++. Ensure you are using a version of Microsoft visual studio 2022
 When building the code, it runs on debug mode, and on console application.
 
 Areas covered include:
--Fundamenta types
+-Fundamental types
 -using functions and classes
 -Input and output streams
 -control flow (if statements, while and for loops)
